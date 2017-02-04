@@ -82,7 +82,7 @@ hi StorageClass guifg=#fac863 ctermfg=221
 hi String guifg=#99c794 ctermfg=114
 hi Structure guifg=#c594c5 ctermfg=176
 hi Tag guifg=#fac863 ctermfg=221
-hi Todo guifg=#fac863 ctermfg=221 guibg=#343d46
+hi Todo guifg=#fac863 ctermfg=1 ctermbg=7 guibg=#343d46
 hi Type guifg=#fac863 ctermfg=221 gui=NONE cterm=NONE
 hi Typedef guifg=#fac863 ctermfg=221
 hi SpellBad guibg=#1b2b34 gui=undercurl cterm=undercurl
